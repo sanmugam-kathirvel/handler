@@ -11,23 +11,14 @@ border-color:#00ff00;
 border-style:outset;
 text-align:right;
 text-shadow: green 0.1em 0.1em 0.1em;
-background-image: url("images/rails.png");
-        background-repeat: no-repeat;
-        background-position: left;
-        height: 64px;
+background: yellow;
+
 }
 
-body{background: #F9F9F7 url('/images/backblue.gif');}
+/*h1{background: #F9F9F7 url("/images/sm.jpg");}*/
 
 table {margin-bottom:1.4em;width:100%;}
 table, th, td {vertical-align:middle;}
-
-#header h1 {
-        background-image: url("images/rails.png");
-        background-repeat: no-repeat;
-        background-position: top left;
-        height: 64px;
-      }
 
 th{
 font-size:20px;
