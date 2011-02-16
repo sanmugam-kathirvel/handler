@@ -32,15 +32,10 @@ body {font-size:75%;color:#222;background:#fff;font-family:"Helvetica Neue", Ari
 h1,h2, h3, h4, h5, h6 {font-weight:normal;color:#111;}
 
 h1{font-size:3em;line-height:1;margin-bottom:0.5em; 
-background: #F9F9F7 url("/images/sm.jpg");background-position:left;background-repeat: repeat-y;text-align:center;
+background: #F9F9F7 /*url("/images/sm.jpg")*/;background-position:left;background-repeat: repeat-y;text-align:center;
 text-align:middle;
 }
-
-h1.header2{font-size:3em;line-height:1;margin-bottom:0.5em; 
-background: #F9F9F7 url("/images/sm.jpg");background-position:left;background-repeat: repeat-y;text-align:center;
-text-align:middle;
-}
-
+/*
 body {
     padding-left: 10em;
     font-family: Georgia, "Times New Roman",
@@ -55,7 +50,7 @@ body {
     background: #F9F9F7 url("/images/sm.jpg");
     background-repeat: repeat-y; }
 
-
+*/
 h2 {font-size:2em;margin-bottom:0.75em;}
 h3 {font-size:1.5em;line-height:1;margin-bottom:1em;}
 h4 {font-size:1.2em;line-height:1.25;margin-bottom:1.25em;}
